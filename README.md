@@ -48,3 +48,22 @@ The following validations were performed:
 Cloud & Infrastructure Technician  
 GitHub: https://github.com/kbutts-cyber  
 LinkedIn: https://linkedin.com/in/kobe-butts-7a54b1385
+
+---
+
+## Screenshots
+
+### Azure Networking
+![VNet](screenshots/vnet.png)
+![Subnets](screenshots/subnets.png)
+
+### Network Security Groups
+![NSG Rules](screenshots/nsg_final.png)
+
+### Azure Bastion
+![Bastion Overview](screenshots/bastionoverview.png)
+![Bastion SSH](screenshots/bastion-ssh.png)
+
+### Web Server Validation
+![NGINX Status](screenshots/nginxstatus.png)
+![HTTP 200](screenshots/curl-200.png)
