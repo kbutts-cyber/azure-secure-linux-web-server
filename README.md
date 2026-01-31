@@ -54,16 +54,32 @@ LinkedIn: https://linkedin.com/in/kobe-butts-7a54b1385
 ## Screenshots
 
 ### Azure Networking
+**Virtual Network & Subnets**
 ![VNet](screenshots/vnet.png)
 ![Subnets](screenshots/subnets.png)
 
 ### Network Security Groups
-![NSG Rules](screenshots/nsg_final.png)
+**NSG Rules**
+![NSG Rules](screenshots/nsg-final.png)
 
 ### Azure Bastion
+**Bastion Overview**
 ![Bastion Overview](screenshots/bastionoverview.png)
+
+**Bastion SSH Access**
 ![Bastion SSH](screenshots/bastion-ssh.png)
 
 ### Web Server Validation
+**NGINX Service Status**
 ![NGINX Status](screenshots/nginxstatus.png)
+
+**HTTP 200 Response via curl**
 ![HTTP 200](screenshots/curl-200.png)
+
+### Resource Group
+**Resource Group Overview**
+![Resource Group](screenshots/rg.png)
+
+### Custom Web Page
+**NGINX Default Page Test**
+![Custom Page](screenshots/custompage.png)
